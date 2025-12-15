@@ -23,7 +23,7 @@ A data science tool for visualizing and analyzing diamond market data.
 ### 🚀 Main Interface & Workflow
 | **Project Launcher** | |
 | :---: | :---: |
-| <img src="screenshots/launcher.png" width="400" alt="Main Launcher"> | <img src="screenshots/dev_workflow.png" width="400" alt="Git Workflow"> |
+| <img src="screenshots/launcher.png" width="400" alt="Main Launcher"> | 
 
 ### ✨ DreamAi Application
 | **DreamAi Landing Interface** | **Image Generation Result** |
