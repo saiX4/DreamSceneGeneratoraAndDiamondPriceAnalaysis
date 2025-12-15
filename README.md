@@ -21,7 +21,7 @@ A data science tool for visualizing and analyzing diamond market data.
 ## 📸 Project Gallery
 
 ### 🚀 Main Interface & Workflow
-| **Project Launcher** | **Development Workflow** |
+| **Project Launcher** | |
 | :---: | :---: |
 | <img src="screenshots/launcher.png" width="400" alt="Main Launcher"> | <img src="screenshots/dev_workflow.png" width="400" alt="Git Workflow"> |
 
@@ -33,7 +33,7 @@ A data science tool for visualizing and analyzing diamond market data.
 ### 💎 Diamond Price Analyzer
 | **Data Summary Dashboard** | **Interactive Scatter Plot** |
 | :---: | :---: |
-| <img src="screenshots/dimon_summary.png" width="400" alt="Data Summary"> | <img src="screenshots/dimon_scatter.png" width="400" alt="Scatter Plot Analysis"> |
+| <img src="screenshots/dimon_summary.png" width="400" alt="Data Summary"> | <img src="screenshots/dimon_scatter.PNG" width="400" alt="Scatter Plot Analysis"> |
 
 | **Categorical Bar Plot** | |
 | :---: | :---: |
